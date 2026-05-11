@@ -7,7 +7,7 @@ Cmake and G++ is tested for arch linux (6.14.2) , should work on all distros.
 
 Didn't bother with windows equivalent cause it's not like anyone will play this anyways
 ```
-git clone https://github.com/ninelcatel/proiect1POO.git
+git clone https://github.com/ninelcatel/Reincarnation-Tale.git
 ```
 
 ```
