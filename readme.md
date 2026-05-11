@@ -15,7 +15,7 @@ cd Reincarnation-Tale
 ```
 
 ```
-mkdir build && cd buiild
+mkdir build && cd build
 ```
 
 ```
